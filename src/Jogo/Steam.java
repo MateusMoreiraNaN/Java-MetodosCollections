@@ -2,7 +2,7 @@ package Jogo;
 
 public class Steam {
     public static void main(String[] args) {
-        Pessoa Meunome = new Pessoa("Mateus", 100.00);
+        Pessoa Meunome = new Pessoa("Mateus2000", 100.00);
 
         Jogo Jogo1 = new Jogo("Cave Story", 5.55);
         Jogo Jogo2 = new Jogo("Hollow Knight", 45.50);
