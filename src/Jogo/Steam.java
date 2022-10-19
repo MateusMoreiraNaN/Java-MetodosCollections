@@ -54,7 +54,7 @@ public class Steam {
             System.out.println(" ");
         }else if(Jogo4P <= Jogo4.PriceGame){
             System.out.println("Usuario logado: " + Meunome.name);
-            System.out.println("Nome ddo Jogo: " + Jogo4.NameGame + "," + "Preço: " + Jogo4.PriceGame + " Compra Negada.");
+            System.out.println("Nome do Jogo: " + Jogo4.NameGame + "," + "Preço: " + Jogo4.PriceGame + " Compra Negada.");
             System.out.println(" ");
         }
         double Jogo5P = Meunome.TenhoNoBolso -= Jogo5.PriceGame;
