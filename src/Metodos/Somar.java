@@ -1,3 +1,5 @@
+package Metodos;
+
 public class Somar {
 
     int a;
